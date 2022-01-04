@@ -5,4 +5,4 @@ Chat application programmed with C# in WPF platform, the server is programmed in
 # 
 ![Picture](Client/ChatHub.png)
 # 
-![Picture](Client/Screenshot3.png)
+![Picture](Client/screenshot3.png)
