@@ -1,0 +1,19 @@
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\bin\Debug\TalMiniProject - Chatty.exe.config
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\bin\Debug\TalMiniProject - Chatty.exe
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\bin\Debug\TalMiniProject - Chatty.pdb
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject - Chatty.csprojAssemblyReference.cache
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\MainWindow.g.cs
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\App.g.cs
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject - Chatty_MarkupCompile.cache
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject - Chatty_MarkupCompile.lref
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\MainWindow.baml
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject - Chatty.g.resources
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject___Chatty.Properties.Resources.resources
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject - Chatty.csproj.GenerateResource.cache
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject - Chatty.exe
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject - Chatty.pdb
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\Chat.g.cs
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\Chat.baml
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\SignUp.g.cs
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\SignUp.baml
+C:\Users\Tal Gavrielov\Desktop\TalMiniProject - Chatty\obj\Debug\TalMiniProject - Chatty_Content.g.cs
